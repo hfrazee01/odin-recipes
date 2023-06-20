@@ -8,3 +8,5 @@ Each recipe has a list of ingredients along with steps to follow to prepare the 
 This project illustrates my knowledge of headers, links, anchors, lists, and any other basics required for HTML. It also illustrates my capabilities of adding styles based on specificity and rule order.
 
 All recipe descriptions, instructions, ingredients, and images were obtained from allrecipes.com.
+
+Check out my first project with Odin at [a link](https://hfrazee01.github.io/odin-recipes/)
