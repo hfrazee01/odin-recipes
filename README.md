@@ -9,4 +9,4 @@ This project illustrates my knowledge of headers, links, anchors, lists, and any
 
 All recipe descriptions, instructions, ingredients, and images were obtained from allrecipes.com.
 
-Check out my first project with Odin at [a link](https://hfrazee01.github.io/odin-recipes/)
+Check out my first project with Odin [here](https://hfrazee01.github.io/odin-recipes/).
